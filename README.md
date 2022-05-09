@@ -4,10 +4,9 @@ It includes two parts: training set and test set, in which the number of trainin
 It contains a total of 9 different entity types.
 
 # Entity Type
-for the 9 entity types, we used different abbreviation, they are:
-columnslist = ['IDX', 'CNT', 'LOC', 'GLOC', 'GPER', 'ORG', 'GORG', 'CCT', 'GDS', 'HBY', 'LCE']
+for the 9 entity types, columnslist = ['IDX', 'CNT', 'LOC', 'GLOC', 'GPER', 'ORG', 'GORG', 'CCT', 'GDS', 'HBY', 'LCE'], we used different abbreviation, they are:
 LOC = loction
-Gloc = generalized loction
+GLOC = generalized loction
 GPER = generalized person
 ORG = organization
 GORG = generalized organization
