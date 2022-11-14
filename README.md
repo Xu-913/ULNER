@@ -21,17 +21,29 @@ HBY  = Hobby(兴趣爱好)
 LCE  = Life Service(生活服务)  
 
 # Generalized Entity Type(泛化实体类型)
+Most of the current mainstream NER datasets want to identify fine-grained entities, but coarse-grained entities are also a key information in spoken scenarios.  
+Sentence 1: I want to go to Yuhu Park.  
+Sentence 2: I want to go to the park.  
+In the above two sentences, samples from the mainstream NER datasets are often cleaned in the form of Sentence 1, which may result in the loss of the key information "parks" in Sentence 2.  
+Coarse-grained entities such as playgrounds, zoos, and railway stations are more common in spoken scenarios, and we name them generalized entity types.  
 ULNER dataset have three generalized entity type which are:  
 Generalized Loction, Generalized Person(similar to occupation) and Generalized Organization.  
 Unlike the conventional entity types, generalized entities refer to all entities of a subclass in a conventional entity.  
 Such as Bird's Nest Gymnasium and Gymnasium correspond to Loction entities and Generalized Loction entities respectively.  
+目前主流的命名实体识别数据集大多想要识别细粒度的实体，但在口语化场景中，粗粒度实体也是一种关键信息。   
+句子1：我想去雨湖公园玩。  
+句子2：我想去公园玩。  
+在上述两个句子中，主流的NER数据集中样本经过清洗往往是句子1形式的，这可能会使得丢失在句子2中的关键信息 “公园”。  
+在口语化场景中，会更多的出现游乐场、动物园、火车站这类粗粒度实体，我们将其命名为泛化实体类型。  
 ULNER数据集有两种泛化实体类型，即泛化地点和泛化人物（类似于职业）和泛化组织。  
 与传统实体类型不同，泛化实体是指传统实体中的子类的所有实体。  
 如鸟巢体育馆和体育馆分别对应于地点实体和泛化地点实体。  
 
 # Colloquial Entity Type(口语化实体类型)
-ULNER dataset have two colloquial entity type which are:  
-Hobby and Life Service.  
+In the spoken Chinese scenario, if the entity is in the form of predicate+object, it may appear discontinuous entities due to attribute embedding or object preposition.   
+We name them spoken entities.   
+The reason why we make a distinction is that they are essentially different, and the recognition method of discontinuous entities cannot be used to detect colloquial entities.  
+ULNER dataset have two colloquial entity type which are: Hobby and Life Service.  
 The order of each character may be disturbed with colloquialism, and irrelevant characters may also be inserted into each character.   
 Therefore, ULNER adopts a special annotation mode for all entities.   
 It records the positions of all entity characters in the sentence in the json file, rather than only the positions of the first and last characters of the entity. 
@@ -39,7 +51,8 @@ For example:
 Sentence1 = C1 C2 C3 C4 C5 C6 C7 C8, C9 C10 C11 C12 C13  
 Entity1 = C7 C3, Label = [6, 2]  
 Entity2 = C9 C10 C11 C12, Label = [8,9,10,11]  
-
+在中文口语化场景中，若实体是 谓语+宾语 的形式，则可能由于定语嵌入或宾语前置导致出现不连续实体，我们将其命名为口语化实体。  
+我们之所以做出区分，是因为他们本质上是不同的，不连续实体的识别方法无法用于检测口语化实体。  
 ULNER数据集有两种口语实体类型，分别是：兴趣爱好和生活服务。  
 各个字符的顺序可能随着口语化而被打乱，同时在各个字符中也可能插入无关字符。  
 因此，ULNER对所有实体采取了特殊的标注模式，在json文件中记录了实体全部字符在句子中的位置，而不是只记录实体首尾字符的位置。例如：
