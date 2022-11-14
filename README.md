@@ -1,10 +1,14 @@
-# ULNER Dataset (Urban Life Named Entity Recognition Dataset.)
+# Aims
+At present, smart city has become the main development direction of each city. However, under the background of the construction of smart city assisted by artificial intelligence, there is no open source dataset available for the mainstream supervisory learning methods.  
+The ULNER dataset is intended to be the first named entity recognition dataset for oral scenes in urban life to support downstream applications such as search, recommendation systems, question and answer scenarios.  
+目前，智慧城市成为了目前各个城市的主要发展方向，然而在人工智能助力智慧城市的建设背景下，主流的监督学习方法尚未有相关开源的数据集可用。  
+ULNER数据集目的是成为第一个城市生活领域中口语化场景的命名实体识别数据集，为下游的应用诸如：搜索、推荐系统、问答等场景提供支撑。  
+
+# Description
 ULNER is an open source Chinese named entity recognition data set in the field of urban life.   
 ULNER contains a total of 9 different entity types， 6310 train samlpes and 1305 test samples.  
 ULNER是一个开源的城市生活领域下中文命名实体识别数据集。  
 它包含了训练集和测试集两部分，分别包含6310和1053个样本，共计9个不同的实体类别。  
-
-# Entity Type(实体类型)
 The 9 entity types are:  
 LOC  = Loction(地点)  
 GLOC = Generalized Loction(泛化地点)  
