@@ -177,7 +177,7 @@ Entity2 = C9 C10 C11 C12, Label = [8,9,10,11]
   <td width="48" style="width:35.75pt;border:none;mso-border-top-alt:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:39.7pt">
   <p class="a1" align="left" style="text-align:left;text-indent:0cm;mso-char-indent-count:
-  0"><span lang="EN-US">57.73<o:p></o:p></span></p>
+  0"><span lang="EN-US">49.25<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:2;height:39.7pt">
@@ -234,7 +234,7 @@ Entity2 = C9 C10 C11 C12, Label = [8,9,10,11]
   <td width="48" style="width:35.75pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;
   height:39.7pt">
   <p class="a1" align="left" style="text-align:left;text-indent:0cm;mso-char-indent-count:
-  0"><span lang="EN-US">59.05<o:p></o:p></span></p>
+  0"><span lang="EN-US">50.84<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:3;height:39.7pt">
@@ -293,7 +293,7 @@ Entity2 = C9 C10 C11 C12, Label = [8,9,10,11]
   <td width="48" style="width:35.75pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;
   height:39.7pt">
   <p class="a1" align="left" style="text-align:left;text-indent:0cm;mso-char-indent-count:
-  0"><span lang="EN-US">67.90<o:p></o:p></span></p>
+  0"><span lang="EN-US">62.82<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:4;height:39.7pt">
@@ -350,7 +350,7 @@ Entity2 = C9 C10 C11 C12, Label = [8,9,10,11]
   <td width="48" style="width:35.75pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;
   height:39.7pt">
   <p class="a1" align="left" style="text-align:left;text-indent:0cm;mso-char-indent-count:
-  0"><span lang="EN-US">70.03<o:p></o:p></span></p>
+  0"><span lang="EN-US">63.64<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:5;height:39.7pt">
@@ -409,7 +409,7 @@ Entity2 = C9 C10 C11 C12, Label = [8,9,10,11]
   <td width="48" style="width:35.75pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;
   height:39.7pt">
   <p class="a1" align="left" style="text-align:left;text-indent:0cm;mso-char-indent-count:
-  0"><span lang="EN-US">70.46<o:p></o:p></span></p>
+  0"><span lang="EN-US">64.03<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:6;height:39.7pt">
@@ -468,7 +468,7 @@ Entity2 = C9 C10 C11 C12, Label = [8,9,10,11]
   <td width="48" style="width:35.75pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;
   height:39.7pt">
   <p class="a1" align="left" style="text-align:left;text-indent:0cm;mso-char-indent-count:
-  0"><span lang="EN-US">71.90<o:p></o:p></span></p>
+  0"><span lang="EN-US">65.80<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:7;height:39.7pt">
@@ -525,7 +525,7 @@ Entity2 = C9 C10 C11 C12, Label = [8,9,10,11]
   <td width="48" style="width:35.75pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;
   height:39.7pt">
   <p class="a1" align="left" style="text-align:left;text-indent:0cm;mso-char-indent-count:
-  0"><span lang="EN-US">68.73<o:p></o:p></span></p>
+  0"><span lang="EN-US">62.29<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:8;height:39.7pt">
@@ -584,7 +584,7 @@ Entity2 = C9 C10 C11 C12, Label = [8,9,10,11]
   <td width="48" style="width:35.75pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;
   height:39.7pt">
   <p class="a1" align="left" style="text-align:left;text-indent:0cm;mso-char-indent-count:
-  0"><span lang="EN-US">70.91<o:p></o:p></span></p>
+  0"><span lang="EN-US">65.48<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:9;height:39.7pt">
@@ -641,7 +641,7 @@ Entity2 = C9 C10 C11 C12, Label = [8,9,10,11]
   <td width="48" style="width:35.75pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;
   height:39.7pt">
   <p class="a1" align="left" style="text-align:left;text-indent:0cm;mso-char-indent-count:
-  0"><span lang="EN-US">70.74<o:p></o:p></span></p>
+  0"><span lang="EN-US">65.10<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:10;height:39.7pt">
@@ -698,7 +698,7 @@ Entity2 = C9 C10 C11 C12, Label = [8,9,10,11]
   <td width="48" style="width:35.75pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;
   height:39.7pt">
   <p class="a1" align="left" style="text-align:left;text-indent:0cm;mso-char-indent-count:
-  0"><span lang="EN-US">70.83<o:p></o:p></span></p>
+  0"><span lang="EN-US">64.62<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:11;height:39.7pt">
@@ -757,7 +757,7 @@ Entity2 = C9 C10 C11 C12, Label = [8,9,10,11]
   <td width="48" style="width:35.75pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;
   height:39.7pt">
   <p class="a1" align="left" style="text-align:left;text-indent:0cm;mso-char-indent-count:
-  0"><span lang="EN-US">70.61<o:p></o:p></span></p>
+  0"><span lang="EN-US">64.05<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:12;height:39.7pt">
@@ -816,7 +816,7 @@ Entity2 = C9 C10 C11 C12, Label = [8,9,10,11]
   <td width="48" style="width:35.75pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;
   height:39.7pt">
   <p class="a1" align="left" style="text-align:left;text-indent:0cm;mso-char-indent-count:
-  0"><span lang="EN-US">72.70<o:p></o:p></span></p>
+  0"><span lang="EN-US">66.42<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:13;height:39.7pt">
@@ -873,7 +873,7 @@ Entity2 = C9 C10 C11 C12, Label = [8,9,10,11]
   <td width="48" style="width:35.75pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;
   height:39.7pt">
   <p class="a1" align="left" style="text-align:left;text-indent:0cm;mso-char-indent-count:
-  0"><span lang="EN-US">70.80<o:p></o:p></span></p>
+  0"><span lang="EN-US">65.08<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:14;mso-yfti-lastrow:yes;height:39.7pt">
@@ -932,7 +932,7 @@ Entity2 = C9 C10 C11 C12, Label = [8,9,10,11]
   <td width="48" style="width:35.75pt;border:none;border-bottom:solid windowtext 1.5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:39.7pt">
   <p class="a1" align="left" style="text-align:left;text-indent:0cm;mso-char-indent-count:
-  0"><span lang="EN-US">72.47<o:p></o:p></span></p>
+  0"><span lang="EN-US">67.40<o:p></o:p></span></p>
   </td>
  </tr>
 </tbody></table>
